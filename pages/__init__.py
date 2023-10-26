@@ -1,0 +1,3 @@
+from pages.login_page import LoginPage
+from pages.welcome_page import WelcomePage
+from pages.open_new_account_page import OpenNewAccountPage
